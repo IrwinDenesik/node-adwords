@@ -1,6 +1,6 @@
 //
-//  UILabel+Pangu.h
-//  Pangu.Objective-C
+//!#UILabel+Pangu.h
+//# Pangu.Objective-C
 //
 //  Created by Cee on 11/08/2015.
 //  Copyright (c) 2015 Cee. All rights reserved.
@@ -13,3 +13,4 @@
 @interface UILabel (Pangu)
 
 @end
+ 
